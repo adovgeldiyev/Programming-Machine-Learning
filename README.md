@@ -1,0 +1,2 @@
+# Programming-Machine-Learning
+This Machine Learning repo focuses on the implementations of various data mining and machine learning techniques and their applications in various domains. The primary tools used in the repo are the Python programming language and several associated libraries such as Numpy, Pandas, Scikit-learn, and Matplotlib. Various techniques, algorithms are explored throughout the course.
